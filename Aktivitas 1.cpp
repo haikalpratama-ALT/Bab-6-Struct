@@ -15,9 +15,10 @@ mhs2.umur = 22;
 mhs2.nik = "0987654321123456";
 cout << "Nama: " << mhs1.nama << endl;
 cout << "Umur: " << mhs1.umur << endl;
-cout << "Nilai: " << mhs1.nik << endl;
+cout << "NIK: " << mhs1.nik << endl;
 cout << "Nama: " << mhs2.nama << endl;
 cout << "Umur: " << mhs2.umur << endl;
-cout << "Nilai: " << mhs2.nik << endl;
+cout << "NIK: " << mhs2.nik << endl;
 return 0;
 }
+
